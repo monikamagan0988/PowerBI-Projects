@@ -1,0 +1,295 @@
+Parent Airline,Airline,FlightNum
+Aegean Airlines,Aegean Airlines,A001
+Aegean Airlines,Olympic Air,A002
+Aeroflot,Aeroflot,A003
+Aeroflot,Rossiya Airlines,A004
+Aeroflot,Aurora Airlines,A005
+Aeroflot,Pobeda,A006
+Aerolineas Argentinas,Aerolineas Argentinas,A007
+Aerolineas Argentinas,Austral Líneas Aéreas,A008
+Air Algerie,Air Algerie,A009
+Air Arabia,Air Arabia,A010
+Air Arabia,Air Arabia Egypt,A011
+Air Arabia,Air Arabia Jordan,A012
+Air Arabia,Air Arabia Maroc,A013
+Air Astana,Air Astana,A014
+Air Berlin,Air Berlin,A015
+Air Canada,Air Canada,A016
+Air Canada,Air Canada Jetz,A017
+Air Canada,Air Canada Rouge,A018
+Air Canada,Air Canada Regional,A019
+Air China,Air Macau (66.9%),A020
+Air China,Air China,A021
+Air China,Shenzhen Airlines,A022
+Air China,Shandong Airlines (51%),A023
+Air China,Air China Inner Mongolia,A024
+Air China,Kunming Airlines (80%),A025
+Air China,Dalian Airlines (80%),A026
+Air China,Air China Cargo,A027
+Air Europa,Air Europa,A028
+Air France/KLM,Air France,A029
+Air France/KLM,Transavia,A030
+Air France/KLM,KLM,A031
+Air France/KLM,Martinair,A032
+Air France/KLM,Transavia France,A033
+Air France/KLM,HOP!,A034
+Air France/KLM,KLM Cityhopper,A035
+Air India,Air India,A036
+Air India,Air India Regional,A037
+Air India,Air India Express,A038
+Air Malta,Air Malta,A039
+Air Mauritius,Air Mauritius,A040
+Air Namibia,Air Namibia,A041
+Air New Zealand,Air New Zealand,A042
+Air New Zealand,Air New Zealand Link,A043
+Air Transat,Air Transat,A044
+Air Transport International,Air Transport International,A045
+Air Transport Services,ABX Air,A046
+Air Wisconsin,Air Wisconsin,A047
+AirAsia,AirAsia,A048
+AirAsia,AirAsia India,A049
+AirAsia,AirAsia Japan,A050
+AirAsia,Thai AirAsia,A051
+AirAsia,Indonesia AirAsia,A052
+AirAsia,Indonesia AirAsia X,A053
+AirAsia,Philippines AirAsia,A054
+AirAsia,AirAsia X,A055
+AirAsia,Thai AirAsia X,A056
+Alaska Airlines,Alaska Airlines,A057
+Alaska Airlines,Horizon Air,A058
+Alitalia,Alitalia,A059
+Alitalia,Alitalia Cityliner,A060
+All Nippon Airways,Vanilla Air,A061
+All Nippon Airways,ANA Wings,A062
+All Nippon Airways,All Nippon Airways,A063
+Allegiant Air,Allegiant Air,A064
+American Airlines,American Airlines,A065
+American Airlines,American Eagle,A066
+American Airlines,PSA Airlines,A067
+American Airlines,Piedmont Airlines,A068
+American Airlines,Envoy Air,A069
+Asiana Airlines,Asiana Airlines,A070
+Asiana Airlines,Air Busan,A071
+Asiana Airlines,Air Seoul,A072
+Atlas Air,Atlas Air,A073
+Avianca,AeroUnion,A074
+Avianca,Avianca,A075
+Avianca,Avianca Brazil,A076
+Avianca,Avianca Ecuador,A077
+Avianca,Avianca Peru,A078
+Avianca,Avianca El Salvador/TACA Airlines,A079
+Avianca,Avianca Cargo Colombia,A080
+Avianca,Avianca Guatemala,A081
+Avianca,Avianca Honduras,A082
+Azul,Azul,A083
+Cathay Pacific,Air Hong Kong,A084
+Cathay Pacific,Cathay Dragon,A085
+Cathay Pacific,Cathay Pacific,A086
+Cebu Pacific Air,Cebu Pacific Air,A087
+China Airlines,China Airlines,A088
+China Airlines,Tigerair Taiwan (80%),A089
+China Airlines,Mandarin Airlines (93.99%),A090
+China Eastern Airlines,China Eastern Airlines,A091
+China Eastern Airlines,China United Airlines,A092
+China Eastern Airlines,Shanghai Airlines,A093
+China Eastern Airlines,China Cargo Airlines,A094
+China Southern Airlines,China Southern Airlines,A095
+Copa Airlines,Copa Airlines,A096
+Copa Airlines,Copa Airlines Colombia,A097
+Delta Airlines,Delta Airlines,A098
+Delta Airlines,Endeavor Air,A099
+easyJet,easyJet,A100
+easyJet,easyJet - Switzerland,A101
+EgyptAir,EgyptAir Cargo,A102
+EgyptAir,EgyptAir,A103
+EgyptAir,Air Cairo,A104
+EgyptAir,EgyptAir Express,A105
+El Al,El Al,A106
+El Al,Sun d'Or,A107
+El Al,Up,A108
+Emirates,Emirates,A109
+Ethiopian Airlines,Ethiopian Airlines,A110
+Etihad Airways,Etihad Airways,A111
+EVA Air,EVA Air,A112
+EVA Air,Uni Air,A113
+FedEx Express,FedEx Express,A114
+FedEx Express,FedEx Feeder Fleet,A115
+Finnair,Finnair,A116
+Finnair,Nordic Regional Airlines,A117
+Flybe,Flybe,A118
+FlyDubai,FlyDubai,A119
+Frontier Airlines,Frontier Airlines,A120
+Garuda Indonesia,Garuda Indonesia,A121
+Garuda Indonesia,Citilink,A122
+Gol Linhas Aéreas,Gol Linhas Aéreas,A123
+Grupo Aeromexico,Aeromexico Express,A124
+Grupo Aeromexico,Aeromexico,A125
+Grupo Aeromexico,Aeromexico Connect,A126
+Gulf Air,Gulf Air,A127
+Hainan Airlines,Lucky Air (86.68%),A128
+Hainan Airlines,Capital Airlines (70%),A129
+Hainan Airlines,Hainan Airlines,A130
+Hainan Airlines,China Xinhua Airlines (100%),A131
+Hainan Airlines,Urumqi Airlines (70%),A132
+Hainan Airlines,Chang An Airlines (67.01%),A133
+Hawaiian Airlines,Hawaiian Airlines,A134
+IAG,British Airways,A135
+IAG,Iberia,A136
+IAG,Vueling,A137
+IAG,Aer Lingus,A138
+IAG,Iberia Express,A139
+IAG,Air Nostrum/Iberia Regional,A140
+IAG,Aer Lingus Regional,A141
+IAG,OpenSkies,A142
+IAG,BA CityFlyer,A143
+Iceland Air Group,Iceland Air Group,A144
+IndiGo,IndiGo,A145
+Interjet,Interjet,A146
+Japan Airlines,Japan Airlines,A147
+Japan Airlines,Japan Air Commuter (60% owned),A148
+Japan Airlines,Japan Transocean Air (72.8%),A149
+Japan Airlines,J-Air,A150
+Japan Airlines,Hokkaido Air System (57.3%),A151
+Jazz Airlines,Jazz Airlines,A152
+Jet Airways,Jet Airways,A153
+Jet2,Jet2,A154
+JetBlue,JetBlue Airways,A155
+Juneyao Airlines,Juneyao Airlines,A156
+Kenya Airways,Kenya Airways,A157
+Kenya Airways,Jambojet Limited,A158
+Korean Air,Korean Air,A159
+Korean Air,Jin Air,A160
+LATAM Airlines Chile,LATAM Airlines Brazil,A161
+LATAM Airlines Chile,LATAM Airlines Chile,A162
+LATAM Airlines Chile,LATAM Airlines Ecuador,A163
+LATAM Airlines Chile,LATAM Airlines Peru,A164
+LATAM Airlines Chile,LATAM Airlines Argentina,A165
+LATAM Airlines Chile,LATAM Cargo Brazil,A166
+LATAM Airlines Chile,LATAM Cargo Chile,A167
+Lion Air,Lion Air,A168
+Lion Air,Batik Air,A169
+Lion Air,Malindo Air,A170
+Lion Air,Wings Air,A171
+Lion Air,Thai Lion Air,A172
+LOT Polish Airlines,LOT Polish Airlines,A173
+Lufthansa,Lufthansa,A174
+Lufthansa,Austrian Airlines,A175
+Lufthansa,Brussels Airlines,A176
+Lufthansa,Germanwings,A177
+Lufthansa,Swiss International Airlines,A178
+Lufthansa,Eurowings,A179
+Lufthansa,Eurowings Europe,A180
+Lufthansa,Edelweiss Air,A181
+Lufthansa,Lufthansa CityLine,A182
+Lufthansa,Air Dolomiti,A183
+Lufthansa,Swiss Global Airlines,A184
+Lufthansa,Lufthansa Cargo,A185
+Malaysia Airlines,Malaysia Airlines,A186
+Malaysia Airlines,Firefly,A187
+Malaysia Airlines,MASwings,A188
+Meridiana,Air Italy,A189
+Mesa Airlines,Mesa Airlines,A190
+Monarch Airlines,Monarch Airlines,A191
+Norwegian Air,Norwegian Air,A192
+Norwegian Air,Norwegian UK,A193
+Norwegian Air,Norwegian Air International,A194
+Norwegian Air,Norwegian Long Haul,A195
+Oman Air,Oman Air,A196
+Pakistan International Airlines,Pakistan International Airlines,A197
+Pegasus Airlines,Pegasus Airlines,A198
+Philippine Airlines,Philippine Airlines,A199
+Philippine Airlines,PAL Express,A200
+Qantas Airways,Qantas Airways,A201
+Qantas Airways,Jetstar Airways,A202
+Qantas Airways,QantasLink,A203
+Qantas Airways,Australian Air Express,A204
+Qantas Airways,Jetconnect,A205
+Qantas Airways,Qantas Freight,A206
+Qantas Airways,Eastern Australia Airlines,A207
+Qantas Airways,Sunstate Airlines,A208
+Qantas Airways,Network Aviation,A209
+Qatar Airways,Qatar Airways,A210
+Qatar Airways,Qatar Airways Cargo,A211
+Qatar Airways,Qatar Executive,A212
+Qatar Airways,Al Maha Airways,A213
+Republic Airways,Republic Airlines,A214
+Royal Air Maroc,Royal Air Maroc,A215
+Royal Air Maroc,Royal Air Maroc Express,A216
+Royal Jordanian,Royal Jordanian,A217
+Royal Jordanian,Royal Wings,A218
+Ryanair,RyanAir,A219
+S7 Airlines,S7 Airlines,A220
+SAS Group,Scandinavian Airlines,A221
+SAS Group,Air Greenland,A222
+SAS Group,Widerøe,A223
+Saudi Arabian Airlines,Saudi Arabian Airlines,A224
+Singapore Airlines,Singapore Airlines,A225
+Singapore Airlines,SilkAir,A226
+Singapore Airlines,Singapore Airlines Cargo,A227
+Skymark Airlines,Skymark Airlines,A228
+Skywest,Skywest,A229
+Skywest Airlines,Skywest Airlines,A230
+South African Airways,South African Airways,A231
+South African Airways,Mango,A232
+Southwest Airlines,Southwest Airlines,A233
+SpiceJet,SpiceJet,A234
+Spirit Airlines,Spirit Airlines,A235
+Spring Airlines,Spring Airlines,A236
+SunExpress,SunExpress,A237
+SunExpress,SunExpress Deutschland,A238
+TAP Portugal,TAP Portugal,A239
+TAP Portugal,TAP Express,A240
+Thai Airways,Thai Airways,A241
+Thai Airways,Thai Smile,A242
+Thai Airways,Nok Air,A243
+Thomas Cook Airlines,Condor,A244
+Thomas Cook Airlines,Thomas Cook Airlines Belgium,A245
+Thomas Cook Airlines,Thomas Cook Airlines,A246
+Thomas Cook Airlines,Thomas Cook Airlines Scandinavia,A247
+Tianjin Airlines,Tianjin Airlines,A248
+Tianjin Airlines,GX Airlines,A249
+Trans States Airlines,Trans States Airlines,A250
+Trans States Airlines,Compass Airlines,A251
+Trans States Airlines,GoJet Airlines,A252
+TUI Group,Thomson Airways,A253
+TUI Group,TUI Airlines Netherlands,A254
+TUI Group,TUI Airlines Belgium,A255
+TUI Group,TUIfly,A256
+TUI Group,TUIfly Nordic,A257
+Tunisair,Tunisair,A258
+Tunisair,Tunisair Express,A259
+Turkish Airlines,Turkish Airlines,A260
+Turkish Airlines,Anadolujet (100%),A261
+United Airlines,United Airlines,A262
+UPS Airlines,UPS,A263
+Utair,Utair,A264
+Utair,UTair-Cargo,A265
+Utair,Vostok Aviation Company,A266
+Vietnam Airlines,Vietnam Airlines,A267
+Vietnam Airlines,Cambodia Angkor Air,A268
+Vietnam Airlines,Jetstar Pacific Airlines,A269
+Vietnam Airlines,Vietnam Air Service Company,A270
+Virgin America,Virgin America,A271
+Virgin Atlantic Airways,Virgin Atlantic Airways,A272
+Virgin Australia,Virgin Australia Regional,A273
+Virgin Australia,Tigerair Australia,A274
+Virgin Australia,Virgin Australia,A275
+Virgin Australia,Virgin Samoa,A276
+Volaris,Volaris,A277
+WestJet,WestJet,A278
+WestJet,WestJet Encore,A279
+Wizz Air,Wizz Air,A280
+American,American,A281
+Continental,Continental,A282
+Delta,Delta,A283
+Northwest,Northwest,A284
+United,United,A285
+US Airways,US Airways,A286
+America West,America West,A287
+Southwest,Southwest,A288
+AirTran,AirTran,A289
+Frontier,Frontier,A290
+Alaska,Alaska,A291
+Hawaiian,Hawaiian,A292
+Spirit,Spirit,A293
+Allegiant,Allegiant,A294

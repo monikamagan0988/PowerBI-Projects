@@ -1,0 +1,102 @@
+Aircraft Type,Aircraft ID
+Airbus A319,T001
+Airbus A320,T002
+Airbus A321,T003
+ATR 42/72,T004
+Boeing 737,T005
+British Aerospace BAe 146/Avro RJ,T006
+De Havilland Canada DHC-8 Dash 8,T007
+Airbus A310,T008
+Airbus A330,T009
+Airbus A350,T010
+Antonov An-124,T011
+Antonov An-148/An-158,T012
+Boeing 747,T013
+Boeing 767,T014
+Boeing 777,T015
+Boeing 787,T016
+Ilyushin Il-62,T017
+Ilyushin Il-96,T018
+Irkut MC-21,T019
+McDonnell Douglas DC-10,T020
+McDonnell Douglas MD-11,T021
+Sukhoi Superjet 100,T022
+Tupolev Tu-134,T023
+Tupolev Tu-154,T024
+Tupolev Tu-204,T025
+Tupolev Tu-214,T026
+Viking Air DHC 6-400 Twin Otter,T027
+Yakovlev Yak-42,T028
+Airbus A340,T029
+Boeing 757,T030
+Embraer ERJ-190,T031
+McDonnell Douglas DC-9,T032
+McDonnell Douglas MD-80,T033
+Airbus A300,T034
+McDonnell Douglas DC-8,T035
+Fokker F50 / F60,T036
+Fokker F70 / F100,T037
+Boeing 727,T038
+Boeing 787 Dreamliner,T039
+Bombardier CS300,T040
+Canadair CRJ-100 Series,T041
+Embraer ERJ-170,T042
+Airbus A350 XWB,T043
+Canadair CRJ-700,T044
+Comac ARJ21,T045
+COMAC C919,T046
+Saab 340,T047
+Embraer ERJ-145,T048
+Aérospatiale/BAC Concorde,T049
+Airbus A318,T050
+Airbus A350-900,T051
+Airbus A380,T052
+Canadair CRJ-1000,T053
+Lockheed L-1011 TriStar,T054
+Bombardier Q300,T055
+British Aerospace BAe ATP,T056
+Dornier Do-328,T057
+Embraer E175,T058
+Canadair CRJ-900,T059
+Mitsubishi MRJ90,T060
+Boeing 717,T061
+McDonnell Douglas MD-90,T062
+Embraer E-190,T063
+Bombardier CS100,T064
+ATR 42-300F/-320F,T065
+ATR 72-200F,T066
+Cessna 208B Grand Caravan,T067
+De Havilland Canada DHC-6 Twin Otter,T068
+Saab 2000,T069
+Boeing 737-800,T070
+Gulfstream Aerospace G-V Gulfstream,T071
+Gulfstream Aerospace G500/G550,T072
+Hawker Beechcraft Hawker 4000,T073
+ATR 42-600,T074
+Canadair CRJ-200 Series,T075
+Bombardier Q400 Nextgen,T076
+Canadair CRJ-200,T077
+Canadair CRJ-705,T078
+Airbus A321neo,T079
+Bombardier BD-500 CSeries,T080
+Eurocopter EC135,T081
+Airbus A320-200,T082
+Avro RJ100,T083
+Boeing 777-300,T084
+Embraer EMB-120 Brasilia,T085
+Q400 NextGen,T086
+British Aerospace BAe 146,T087
+Bombardier Challenger 605,T088
+Bombardier Global 5000,T089
+Bombardier Global 7000/8000,T090
+Bombardier Global XRS,T091
+Gulfstream G650ER,T092
+ATR 72-600,T093
+Embraer E175-E2,T094
+British Aerospace Jetstream 41,T095
+Antonov An-2,T096
+Antonov An-28,T097
+Antonov An-38,T098
+Antonov An-74-200,T099
+Mil Mi-8MTV-1,T100
+Mil Mi-8T,T101

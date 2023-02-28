@@ -1,0 +1,401 @@
+Year,Miles,Airline,FlightNum
+1995,"45,845",American,A281
+1996,"45,358",American,A281
+1997,"45,652",American,A281
+1998,"48,555",American,A281
+1999,"50,405",American,A281
+2000,"51,617",American,A281
+2001,"49,111",American,A281
+2002,"47,426",American,A281
+2003,"48,727",American,A281
+2004,"56,212",American,A281
+2005,"60,967",American,A281
+2006,"62,601",American,A281
+2007,"61,350",American,A281
+2008,"61,681",American,A281
+2009,"58,812",American,A281
+2010,"60,072",American,A281
+2011,"62,694",American,A281
+2012,"62,778",American,A281
+2013,"65,233",American,A281
+2014,"68,173",American,A281
+2015,"89,790",American,A281
+2016,"91,079",American,A281
+2017,"94,643",American,A281
+2018,"95,877",American,A281
+2019,"94,471",American,A281
+1995,"8,627",Continental,A282
+1996,"10,052",Continental,A282
+1997,"14,990",Continental,A282
+1998,"20,502",Continental,A282
+1999,"26,110",Continental,A282
+2000,"29,101",Continental,A282
+2001,"27,362",Continental,A282
+2002,"26,889",Continental,A282
+2003,"27,418",Continental,A282
+2004,"31,218",Continental,A282
+2005,"35,239",Continental,A282
+2006,"40,488",Continental,A282
+2007,"43,635",Continental,A282
+2008,"46,169",Continental,A282
+2009,"44,904",Continental,A282
+2010,"46,207",Continental,A282
+2011,"49,729",Continental,A282
+2012, -   ,Continental,A282
+2013, -   ,Continental,A282
+2014, -   ,Continental,A282
+2015, -   ,Continental,A282
+2016, -   ,Continental,A282
+2017, -   ,Continental,A282
+2018, -   ,Continental,A282
+2019, -   ,Continental,A282
+1995,"30,152",Delta,A283
+1996,"28,199",Delta,A283
+1997,"28,462",Delta,A283
+1998,"31,906",Delta,A283
+1999,"32,172",Delta,A283
+2000,"33,560",Delta,A283
+2001,"34,143",Delta,A283
+2002,"31,605",Delta,A283
+2003,"27,387",Delta,A283
+2004,"31,445",Delta,A283
+2005,"35,349",Delta,A283
+2006,"42,693",Delta,A283
+2007,"49,283",Delta,A283
+2008,"56,342",Delta,A283
+2009,"55,159",Delta,A283
+2010,"90,687",Delta,A283
+2011,"94,673",Delta,A283
+2012,"92,106",Delta,A283
+2013,"92,543",Delta,A283
+2014,"95,757",Delta,A283
+2015,"96,958",Delta,A283
+2016,"95,356",Delta,A283
+2017,"94,710",Delta,A283
+2018,"96,035",Delta,A283
+2019,"98,986",Delta,A283
+1995,"34,368",Northwest,A284
+1996,"37,391",Northwest,A284
+1997,"39,246",Northwest,A284
+1998,"37,166",Northwest,A284
+1999,"39,096",Northwest,A284
+2000,"41,723",Northwest,A284
+2001,"39,665",Northwest,A284
+2002,"37,222",Northwest,A284
+2003,"34,409",Northwest,A284
+2004,"35,265",Northwest,A284
+2005,"36,630",Northwest,A284
+2006,"34,819",Northwest,A284
+2007,"36,548",Northwest,A284
+2008,"39,257",Northwest,A284
+2009,"34,175",Northwest,A284
+2010, -   ,Northwest,A284
+2011, -   ,Northwest,A284
+2012, -   ,Northwest,A284
+2013, -   ,Northwest,A284
+2014, -   ,Northwest,A284
+2015, -   ,Northwest,A284
+2016, -   ,Northwest,A284
+2017, -   ,Northwest,A284
+2018, -   ,Northwest,A284
+2019, -   ,Northwest,A284
+1995,"58,225",United,A285
+1996,"59,990",United,A285
+1997,"63,745",United,A285
+1998,"64,030",United,A285
+1999,"61,832",United,A285
+2000,"65,465",United,A285
+2001,"64,014",United,A285
+2002,"54,444",United,A285
+2003,"47,839",United,A285
+2004,"51,974",United,A285
+2005,"56,401",United,A285
+2006,"56,289",United,A285
+2007,"57,930",United,A285
+2008,"58,465",United,A285
+2009,"53,403",United,A285
+2010,"54,391",United,A285
+2011,"56,659",United,A285
+2012,"105,674",United,A285
+2013,"104,570",United,A285
+2014,"106,788",United,A285
+2015,"109,595",United,A285
+2016,"110,594",United,A285
+2017,"112,761",United,A285
+2018,"115,984",United,A285
+2019,"119,382",United,A285
+1995,"3,009",US Airways,A286
+1996,"4,142",US Airways,A286
+1997,"5,204",US Airways,A286
+1998,"5,881",US Airways,A286
+1999,"6,869",US Airways,A286
+2000,"8,782",US Airways,A286
+2001,"10,876",US Airways,A286
+2002,"10,728",US Airways,A286
+2003,"12,044",US Airways,A286
+2004,"13,549",US Airways,A286
+2005,"13,332",US Airways,A286
+2006,"14,406",US Airways,A286
+2007,"15,288",US Airways,A286
+2008,"16,065",US Airways,A286
+2009,"17,471",US Airways,A286
+2010,"18,882",US Airways,A286
+2011,"19,446",US Airways,A286
+2012,"19,701",US Airways,A286
+2013,"20,502",US Airways,A286
+2014,"21,266",US Airways,A286
+2015, -   ,US Airways,A286
+2016, -   ,US Airways,A286
+2017, -   ,US Airways,A286
+2018, -   ,US Airways,A286
+2019, -   ,US Airways,A286
+1995,247,America West,A287
+1996,687,America West,A287
+1997,764,America West,A287
+1998,673,America West,A287
+1999,506,America West,A287
+2000,508,America West,A287
+2001,566,America West,A287
+2002,789,America West,A287
+2003,946,America West,A287
+2004,984,America West,A287
+2005,"1,150",America West,A287
+2006, -   ,America West,A287
+2007, -   ,America West,A287
+2008, -   ,America West,A287
+2009, -   ,America West,A287
+2010, -   ,America West,A287
+2011, -   ,America West,A287
+2012, -   ,America West,A287
+2013, -   ,America West,A287
+2014, -   ,America West,A287
+2015, -   ,America West,A287
+2016, -   ,America West,A287
+2017, -   ,America West,A287
+2018, -   ,America West,A287
+2019, -   ,America West,A287
+1995, -   ,Southwest,A288
+1996, -   ,Southwest,A288
+1997, -   ,Southwest,A288
+1998, -   ,Southwest,A288
+1999, -   ,Southwest,A288
+2000, -   ,Southwest,A288
+2001, -   ,Southwest,A288
+2002, -   ,Southwest,A288
+2003, -   ,Southwest,A288
+2004, -   ,Southwest,A288
+2005, -   ,Southwest,A288
+2006, -   ,Southwest,A288
+2007, -   ,Southwest,A288
+2008, -   ,Southwest,A288
+2009, -   ,Southwest,A288
+2010, -   ,Southwest,A288
+2011, -   ,Southwest,A288
+2012,"1,993",Southwest,A288
+2013,"2,727",Southwest,A288
+2014,"2,846",Southwest,A288
+2015,"3,652",Southwest,A288
+2016,"4,573",Southwest,A288
+2017,"5,560",Southwest,A288
+2018,"5,795",Southwest,A288
+2019,"5,228",Southwest,A288
+1995, -   ,jetBlue,A155
+1996, -   ,jetBlue,A155
+1997, -   ,jetBlue,A155
+1998, -   ,jetBlue,A155
+1999, -   ,jetBlue,A155
+2000, -   ,jetBlue,A155
+2001, -   ,jetBlue,A155
+2002, -   ,jetBlue,A155
+2003, -   ,jetBlue,A155
+2004,231,jetBlue,A155
+2005,77,jetBlue,A155
+2006, -   ,jetBlue,A155
+2007, -   ,jetBlue,A155
+2008,"1,496",jetBlue,A155
+2009,"3,793",jetBlue,A155
+2010,"5,175",jetBlue,A155
+2011,"5,692",jetBlue,A155
+2012,"6,485",jetBlue,A155
+2013,"7,315",jetBlue,A155
+2014,"9,214",jetBlue,A155
+2015,"10,398",jetBlue,A155
+2016,"11,180",jetBlue,A155
+2017,"11,870",jetBlue,A155
+2018,"12,942",jetBlue,A155
+2019,"15,157",jetBlue,A155
+1995, -   ,AirTran,A289
+1996, -   ,AirTran,A289
+1997, -   ,AirTran,A289
+1998, -   ,AirTran,A289
+1999, -   ,AirTran,A289
+2000, -   ,AirTran,A289
+2001, -   ,AirTran,A289
+2002, -   ,AirTran,A289
+2003, -   ,AirTran,A289
+2004, -   ,AirTran,A289
+2005,60,AirTran,A289
+2006,78,AirTran,A289
+2007,17,AirTran,A289
+2008,6,AirTran,A289
+2009,216,AirTran,A289
+2010,"1,052",AirTran,A289
+2011,"1,285",AirTran,A289
+2012, -   ,AirTran,A289
+2013, -   ,AirTran,A289
+2014, -   ,AirTran,A289
+2015, -   ,AirTran,A289
+2016, -   ,AirTran,A289
+2017, -   ,AirTran,A289
+2018, -   ,AirTran,A289
+2019, -   ,AirTran,A289
+1995, -   ,Frontier,A290
+1996, -   ,Frontier,A290
+1997, -   ,Frontier,A290
+1998, -   ,Frontier,A290
+1999, -   ,Frontier,A290
+2000, -   ,Frontier,A290
+2001, -   ,Frontier,A290
+2002, -   ,Frontier,A290
+2003, -   ,Frontier,A290
+2004, -   ,Frontier,A290
+2005,632,Frontier,A290
+2006,821,Frontier,A290
+2007,"1,259",Frontier,A290
+2008,997,Frontier,A290
+2009,653,Frontier,A290
+2010,858,Frontier,A290
+2011,765,Frontier,A290
+2012,"1,422",Frontier,A290
+2013,"1,428",Frontier,A290
+2014,"1,542",Frontier,A290
+2015,"1,643",Frontier,A290
+2016,"1,355",Frontier,A290
+2017,"1,742",Frontier,A290
+2018,"2,218",Frontier,A290
+2019,"2,398",Frontier,A290
+1995, -   ,Virgin America,A271
+1996, -   ,Virgin America,A271
+1997, -   ,Virgin America,A271
+1998, -   ,Virgin America,A271
+1999, -   ,Virgin America,A271
+2000, -   ,Virgin America,A271
+2001, -   ,Virgin America,A271
+2002, -   ,Virgin America,A271
+2003, -   ,Virgin America,A271
+2004, -   ,Virgin America,A271
+2005, -   ,Virgin America,A271
+2006, -   ,Virgin America,A271
+2007, -   ,Virgin America,A271
+2008, -   ,Virgin America,A271
+2009, -   ,Virgin America,A271
+2010,4,Virgin America,A271
+2011,341,Virgin America,A271
+2012,474,Virgin America,A271
+2013,382,Virgin America,A271
+2014,334,Virgin America,A271
+2015,338,Virgin America,A271
+2016,370,Virgin America,A271
+2017,382,Virgin America,A271
+2018, -   ,Virgin America,A271
+2019, -   ,Virgin America,A271
+1995,926,Alaska,A291
+1996,"1,117",Alaska,A291
+1997,"1,159",Alaska,A291
+1998,"1,338",Alaska,A291
+1999,"1,451",Alaska,A291
+2000,"1,614",Alaska,A291
+2001,"1,637",Alaska,A291
+2002,"1,903",Alaska,A291
+2003,"2,041",Alaska,A291
+2004,"2,117",Alaska,A291
+2005,"2,097",Alaska,A291
+2006,"2,407",Alaska,A291
+2007,"2,694",Alaska,A291
+2008,"2,407",Alaska,A291
+2009,"1,944",Alaska,A291
+2010,"1,856",Alaska,A291
+2011,"2,230",Alaska,A291
+2012,"2,182",Alaska,A291
+2013,"2,278",Alaska,A291
+2014,"2,254",Alaska,A291
+2015,"2,374",Alaska,A291
+2016,"2,787",Alaska,A291
+2017,"3,259",Alaska,A291
+2018,"3,289",Alaska,A291
+2019,"2,910",Alaska,A291
+1995,266,Hawaiian,A292
+1996,279,Hawaiian,A292
+1997,271,Hawaiian,A292
+1998,272,Hawaiian,A292
+1999,373,Hawaiian,A292
+2000,804,Hawaiian,A292
+2001,689,Hawaiian,A292
+2002,219,Hawaiian,A292
+2003,109,Hawaiian,A292
+2004,423,Hawaiian,A292
+2005,641,Hawaiian,A292
+2006,548,Hawaiian,A292
+2007,484,Hawaiian,A292
+2008,893,Hawaiian,A292
+2009,"1,053",Hawaiian,A292
+2010,"1,171",Hawaiian,A292
+2011,"3,022",Hawaiian,A292
+2012,"4,775",Hawaiian,A292
+2013,"6,440",Hawaiian,A292
+2014,"5,862",Hawaiian,A292
+2015,"5,516",Hawaiian,A292
+2016,"5,815",Hawaiian,A292
+2017,"6,721",Hawaiian,A292
+2018,"6,851",Hawaiian,A292
+2019,"6,571",Hawaiian,A292
+1995, -   ,Spirit,A293
+1996, -   ,Spirit,A293
+1997, -   ,Spirit,A293
+1998, -   ,Spirit,A293
+1999, -   ,Spirit,A293
+2000, -   ,Spirit,A293
+2001, -   ,Spirit,A293
+2002, -   ,Spirit,A293
+2003, -   ,Spirit,A293
+2004, -   ,Spirit,A293
+2005,354,Spirit,A293
+2006,720,Spirit,A293
+2007,"1,654",Spirit,A293
+2008,"1,716",Spirit,A293
+2009,"1,450",Spirit,A293
+2010,"1,502",Spirit,A293
+2011,"1,543",Spirit,A293
+2012,"1,614",Spirit,A293
+2013,"1,650",Spirit,A293
+2014,"1,830",Spirit,A293
+2015,"2,171",Spirit,A293
+2016,"2,382",Spirit,A293
+2017,"2,298",Spirit,A293
+2018,"3,331",Spirit,A293
+2019,"4,710",Spirit,A293
+1995, -   ,Allegiant,A294
+1996, -   ,Allegiant,A294
+1997, -   ,Allegiant,A294
+1998, -   ,Allegiant,A294
+1999, -   ,Allegiant,A294
+2000, -   ,Allegiant,A294
+2001, -   ,Allegiant,A294
+2002, -   ,Allegiant,A294
+2003, -   ,Allegiant,A294
+2004, -   ,Allegiant,A294
+2005, -   ,Allegiant,A294
+2006, -   ,Allegiant,A294
+2007, -   ,Allegiant,A294
+2008, -   ,Allegiant,A294
+2009, -   ,Allegiant,A294
+2010, -   ,Allegiant,A294
+2011, -   ,Allegiant,A294
+2012,4,Allegiant,A294
+2013, -   ,Allegiant,A294
+2014, -   ,Allegiant,A294
+2015, -   ,Allegiant,A294
+2016,5,Allegiant,A294
+2017,11,Allegiant,A294
+2018,1,Allegiant,A294
+2019, -   ,Allegiant,A294
